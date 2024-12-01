@@ -47,13 +47,7 @@ influencer-performance-analysis/
 - **visualization.py**: Generates visualizations from the analyzed data.
 - **__init__.py**: Marks the directory as a Python package.
 
-### `notebooks/`
-- **exploratory_analysis.ipynb**: Jupyter Notebook for exploratory data analysis and initial experimentation.
-
-### `tests/`
-- **test_data_retrieval.py**: Unit tests for `data_retrieval.py`.
-- **test_face_detection.py**: Unit tests for `face_detection.py`.
-- **test_performance_analysis.py**: Unit tests for `performance_analysis.py`.
+`performance_analysis.py`.
 
 ### `requirements.txt`
 Contains a list of Python dependencies required to run the project.
