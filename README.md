@@ -28,6 +28,10 @@ influencer-performance-analysis/
 ├── requirements.txt
 ├── README.md
 └── main.py
+├── download.py
+├── rename.py
+└── setup.py
+
 ```
 
 ## Directory Details
