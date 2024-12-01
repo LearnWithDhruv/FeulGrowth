@@ -1,0 +1,10 @@
+pandas
+numpy
+opencv-python
+face-recognition
+gspread
+oauth2client
+matplotlib
+seaborn
+scikit-learn
+dlib
